@@ -1,0 +1,38 @@
+_repo: Historic-Towns-of-the-Western-States_41349
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41349-h/images/frontcover.jpg
+creator:
+  editor:
+    agent_name: Powell, Lyman P. (Lyman Pierson)
+    alias: Powell, Lyman Pierson
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '41127'
+    url: http://www.gutenberg.org/2009/agents/41127
+description: ''
+gutenberg_issued: '2012-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41349'
+  lccn: 01027079
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F590.3'
+- !lcsh 'Northwest, Old -- History'
+- !lcsh 'West (U.S.) -- History'
+tableOfContents: Introduction, by R. G. Thwaites -- Marietta, by Muriel C. Dyar --
+  Cleveland, by C. F. Thwing -- Cincinnati, by M. E. Ailes -- Detroit, by S. Farmer
+  -- Mackinac, by Sara A. Shafer -- Indianapolis, by P. S. Heath -- Vincennes, by
+  W. H. Smith -- Chicago, by L. J. Gage -- Madison, by R. G. Thwaites -- Minneapolis
+  and St. Paul, by C. B. Elliott -- Des Moines, by F. I. Herriott -- St. Louis, by
+  W. M. Reedy -- Kansas City, by C. S. Gleed -- Omaha, by V. Rosewater -- Denver,
+  by J. C. Dana -- Santa Fé, by F. W. Hodge -- Salt Lake City, by J. E. Talmage --
+  Spokane, by H. Bolce -- Portland, by T. L. Cole -- San Francisco, by E. Markham
+  -- Monterey, by H. Bolce -- Los Angeles, by Florence E. Winslow.
+title: Historic Towns of the Western States
+url: http://www.gutenberg.org/ebooks/41349
